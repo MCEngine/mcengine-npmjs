@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MCEngine/mcengine.git"
+    "url": "https://github.com/MCEngine/mcengine-npmjs.git"
   },
   "main": "index.js",
   "scripts": {
